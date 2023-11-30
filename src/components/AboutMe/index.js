@@ -45,10 +45,10 @@ const AboutMe = () => {
             </div>
             <div className="w-full lg:w-1/2 flex flex-col justify-center p-2 py-8">
               <p className="text-base text-gray-300 md:text-lg">
-                Hi there! I'm Akash Vasava, a passionate Front-End Developer with a knack for creating captivating user interfaces and interactive web applications using React. I'm driven by my curiosity and love for coding, and I thrive on turning innovative ideas into elegant and functional digital experiences.
+                Hi there! I'm Akash Vasava, a passionate Web Developer with a knack for creating captivating user interfaces and interactive web applications using MERN. I'm driven by my curiosity and love for coding, and I thrive on turning innovative ideas into elegant and functional digital experiences.
               </p>
               <p className="mt-4 text-base text-gray-300 md:text-lg">
-                My journey in the world of development began with my fascination for computers and coding during my childhood. Although I briefly explored other paths, my passion for coding eventually brought me back, and now I'm excited to pursue a career that aligns with my true passion. With each line of code, I strive to contribute positively to the digital landscape while continually learning and growing.
+                My journey in the world of development began with my fascination for computers and coding during my childhood. Although I explored other paths, my passion for coding eventually brought me back, and now I'm excited to pursue a career that aligns with my true passion. With each line of code, I strive to contribute positively to the digital landscape while continually learning and growing.
               </p>
             </div>
           </div>

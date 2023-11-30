@@ -1,10 +1,10 @@
 const skills = [
   {
-    icon: "text-blue-accent-700 text-4xl fa-solid fa-code",
+    icon: "text-blue-accent-700 text-4xl fab fa-html5",
     title: "Front-End Development",
     skills: [
-      "HTML",
-      "CSS",
+      "HTML5",
+      "CSS3",
       "JavaScript",
       "React",
       "SCSS",
@@ -13,25 +13,29 @@ const skills = [
     ],
   },
   {
-    icon: "text-blue-accent-700 text-4xl fab fa-html5",
-    title: "Design",
+    icon: "text-blue-accent-700 text-4xl fa-solid fa-code",
+    title: "Back-End Development",
     skills: [
-      "FIGMA",
-      "PHOTOSHOP",
+      "NodeJS",
+      "ExpressJS",
       "Sketch",
+      "MongoDB",
+      "Mongoose",
+      "SpringBoot",
     ],
   },
   {
     icon: "text-blue-accent-700 text-4xl fa-solid fa-screwdriver-wrench",
-    title: "Tools",
+    title: "Tools / technologies",
     skills: [
       "Git",
       "GitHub",
-      "VSCode",
-      "Pycharm",
-      "WordPress",
-      "SEO",
+      "GitHub Pages",
       "VERCEL",
+      "VSCode",
+      "Intellij",
+      "Figma",
+      "Sketch",
     ],
   }
 ];

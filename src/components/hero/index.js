@@ -13,7 +13,7 @@ const Hero = () => {
                 <span className="inline-block text-blue-accent-700">Akash Vasava</span>
               </h2>
               <p className="text-gray-700 text-base md:text-lg">
-                I'm a Front-End Developer / React.js Developer. <br />
+                I'm a Full-Stack Developer. Specialized in ReactJs. <br />
                  based in Gujarat, India.
               </p>
             </div>
