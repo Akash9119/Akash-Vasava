@@ -46,7 +46,7 @@ If you encounter any issues or have suggestions for improvement, please let me k
 
 If you have any questions, feedback, or want to connect, feel free to reach out to me:
 
-- Email: your.email@example.com
+- Email: akashj.vasava@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/akash-vasava/)
 - GitHub: [Your GitHub Profile](https://github.com/Akash9119)
 - Portfolio: [Your Portfolio Website](https://akash-vasava.vercel.app/)
