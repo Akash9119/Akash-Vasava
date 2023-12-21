@@ -39,7 +39,8 @@ If you encounter any issues or have suggestions for improvement, please let me k
 
 ## Screenshots
 
-![Alt text](screencapture-akash-vasava-vercel-app-2023-12-21-20_08_29.png)
+![screencapture-akash-vasava-vercel-app-2023-12-21-20_08_29](https://github.com/Akash9119/Akash-Vasava/assets/68374089/ebfa6698-c15b-4af3-bccc-73a3ec610075)
+
 
 ## Contact
 
