@@ -5,7 +5,7 @@ const Footer = () => {
 
           <div className="flex flex-col justify-center pt-5 pb-10 border-t border-gray-800 sm:flex-row">
             <p className="text-sm text-gray-500">
-              © Copyright 2023 | Akash Vasava. All rights reserved.
+              © Copyright 2024 | Akash Vasava. All rights reserved.
             </p>
           </div>
         </div>
