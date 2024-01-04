@@ -39,13 +39,14 @@ If you encounter any issues or have suggestions for improvement, please let me k
 
 ## Screenshots
 
-![Alt text](screencapture-akash-vasava-vercel-app-2023-12-21-20_08_29.png)
+![screencapture-akash-vasava-vercel-app-2023-12-21-20_08_29](https://github.com/Akash9119/Akash-Vasava/assets/68374089/ebfa6698-c15b-4af3-bccc-73a3ec610075)
+
 
 ## Contact
 
 If you have any questions, feedback, or want to connect, feel free to reach out to me:
 
-- Email: your.email@example.com
+- Email: akashj.vasava@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/akash-vasava/)
 - GitHub: [Your GitHub Profile](https://github.com/Akash9119)
 - Portfolio: [Your Portfolio Website](https://akash-vasava.vercel.app/)
